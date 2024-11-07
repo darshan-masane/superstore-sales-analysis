@@ -8,10 +8,11 @@ This project provides a detailed analysis of sales performance for a retail supe
 - Optimize Inventory & Sales Strategy: Use insights to recommend inventory and sales optimizations.
 
 ## Dataset Used
-## - <a href="https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Assignment_dash.xlsx">Dataset</a>
+## - <a href="https://github.com/darshan-masane/superstore-sales-analysis/blob/main/SuperStore%20Sales%20DataSet%20(1).xlsx">Dataset</a>
 
 ## Dashboard 
-## - <a href="https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Assignment_dash.xlsx">Dashboard</a>
+## - <a href="[https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Assignment_dash.xlsx](https://github.com/darshan-masane/superstore-sales-analysis/blob/main/Screenshot%202024-11-07%20201052.png)">Dashboard</a>
+
 ## Key Features
 - Data Cleaning & Preprocessing: Data quality checks and cleaning for accurate analysis.
 - Exploratory Data Analysis (EDA): Detailed analysis using visualizations to highlight key trends.
