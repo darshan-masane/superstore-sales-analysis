@@ -6,6 +6,12 @@ This project provides a detailed analysis of sales performance for a retail supe
 - Understand Customer Behavior: Uncover purchasing patterns and segment customer groups.
 - Explore Regional Performance: Compare performance across regions to identify growth opportunities.
 - Optimize Inventory & Sales Strategy: Use insights to recommend inventory and sales optimizations.
+
+## Dataset Used
+## - <a href="https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Assignment_dash.xlsx">Dataset</a>
+
+## Dashboard 
+## - <a href="https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Assignment_dash.xlsx">Dashboard</a>
 ## Key Features
 - Data Cleaning & Preprocessing: Data quality checks and cleaning for accurate analysis.
 - Exploratory Data Analysis (EDA): Detailed analysis using visualizations to highlight key trends.
