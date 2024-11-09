@@ -20,3 +20,7 @@ This project provides a detailed analysis of sales performance for a retail supe
 ## Tools & Technologies
 - Excel: Data cleaning, EDA, and statistical analysis.
 - Power BI: Visualization and dashboard creation for interactive insights.
+
+## Dashboard Overview :
+![Screenshot 2024-11-01 120048.](https://github.com/darshan-masane/Vrinda-Store-Analysis-Dashboard/blob/main/Screenshot%202024-11-01%20120048.png)
+
