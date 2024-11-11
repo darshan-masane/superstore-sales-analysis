@@ -18,8 +18,10 @@ This project provides a detailed analysis of sales performance for a retail supe
 - Exploratory Data Analysis (EDA): Detailed analysis using visualizations to highlight key trends.
 - Power BI Dashboard: Interactive dashboard to present findings effectively.
 ## Tools & Technologies
-- Excel: Data cleaning, EDA, and statistical analysis.
-- Power BI: Visualization and dashboard creation for interactive insights.
+### - Excel:
+Data cleaning, EDA, and statistical analysis.
+### - Power BI:
+Visualization and dashboard creation for interactive insights.
 
 ## Dashboard Overview :
 ![Screenshot 2024-11-07 201052.png](https://github.com/darshan-masane/superstore-sales-analysis/blob/main/Screenshot%202024-11-07%20201052.png)
