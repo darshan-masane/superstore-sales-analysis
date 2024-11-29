@@ -1,7 +1,7 @@
 # superstore-sales-analysis-dashboard
 This project provides a detailed analysis of sales performance for a retail superstore, using data visualization and data analytics tools to uncover key insights. The dashboard includes visualizations of sales, profits, and customer segments, and highlights trends across categories, regions, and time periods.
 
-## Objectives
+## Objectives:
 - Identify Top-Selling Products: Analyze which products contribute the most to revenue and profit.
 - Understand Customer Behavior: Uncover purchasing patterns and segment customer groups.
 - Explore Regional Performance: Compare performance across regions to identify growth opportunities.
