@@ -11,7 +11,7 @@ This project provides a detailed analysis of sales performance for a retail supe
 ## - <a href="https://github.com/darshan-masane/superstore-sales-analysis/blob/main/SuperStore%20Sales%20DataSet%20(1).xlsx">Dataset</a>
 
 ## Dashboard :
-## - <a href="https://github.com/darshan-masane/superstore-sales-analysis/blob/main/Screenshot%202024-11-07%20201052.png">Dashboard</a>
+## - <a href="https://github.com/darshan-masane/superstore-sales-analysis/blob/main/Suprstore_dashboard.pbix">Dashboard</a>
 
 ## Key Features
 - Data Cleaning & Preprocessing: Data quality checks and cleaning for accurate analysis.
