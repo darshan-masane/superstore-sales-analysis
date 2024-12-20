@@ -13,11 +13,11 @@ This project provides a detailed analysis of sales performance for a retail supe
 ## Dashboard :
 ## - <a href="https://github.com/darshan-masane/superstore-sales-analysis/blob/main/Suprstore_dashboard.pbix">Dashboard</a>
 
-## Key Features
+## Key Features:
 - Data Cleaning & Preprocessing: Data quality checks and cleaning for accurate analysis.
 - Exploratory Data Analysis (EDA): Detailed analysis using visualizations to highlight key trends.
 - Power BI Dashboard: Interactive dashboard to present findings effectively.
-## Tools & Technologies
+## Tools & Technologies:
 ### - Excel:
 Data cleaning, EDA, and statistical analysis.
 ### - Power BI:
